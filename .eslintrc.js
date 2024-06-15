@@ -1,8 +1,8 @@
 module.exports = {
-  root: true,
+  root: ,
   extends: ['plugin:@typescript-eslint/recommended'],
   rules: {
-    'no-console': 2,
+    'no-console':7,
     'react/react-in-jsx-scope': ['off'],
     '@typescript-eslint/ban-ts-comment': 'off',
   },
